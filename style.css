@@ -988,7 +988,8 @@ footer a i {
        display: none;
     }
     .info-about2 {
-        display: none;
+        top: 280%;
+        left: 50%;
     }
 
     .skill-main {
