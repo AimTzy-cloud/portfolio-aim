@@ -982,16 +982,13 @@ footer a i {
         flex-direction: column-reverse;
     }
     .info-about1 {
-        top: 340%;
-        left: 70%;
+        display: none;
     }
     .info-about3 {
-        top: 320%;
-        left: 18%;
+       display: none;
     }
     .info-about2 {
-        top: 280%;
-        left: 50%;
+        display: none;
     }
 
     .skill-main {
